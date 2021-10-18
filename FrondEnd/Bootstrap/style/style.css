@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.grisOscuro{
+    background-color: #353434;
+}
+
+footer{
+    background-color: #062c40;
+}
+.card{
+    margin-top: 4vh;
+}
+
+.cards .card{
+    margin-left: 2vw;
+}
+/*
+header{
+    background-image: url("../img/hawaii.jpg");
+    filter:brightness(0.5);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white !important;
+}*/
+header{
+    height: 70vh;
+}
+header img{
+    height: 70vh;
+    width: 100%;
+    filter:brightness(0.5);
+    
+}
+
+
+header div{
+    padding-right: 2vw;
+}
